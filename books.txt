@@ -1,0 +1,14 @@
+9783161487,Da Vinci Code,Dan Brown,F
+0198526636,Little Women,Louisa May Alcott,T
+3880531101,Pride and Prejudice,Jane Austen,F
+1312930332,War and Peace,Leo Tolstoy,F
+3770982174,The Surgeon,Tess Gerritsen,T
+0131464132,Death on the Nile, Agatha Christie,F
+1763754688,Dracula,Bram Stoker,T
+1401601499,It,Stephen King,T
+7834567810,The Grand Design,Stephen Hawking,F
+9738780735,The Great Gatsby,Scott Fitzgerald,T
+2735521438,Hamlet,William Shakespeare,F
+9638087046,The Fault In Our Stars,John Green,T
+0345435249,Improbable,Adam Fawer,F
+1861972717,The Stranger,Albert Camus,F
